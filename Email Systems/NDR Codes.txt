@@ -1,0 +1,17 @@
+2.0.0 - Success: Message delivered successfully.
+4.0.0 - Persistent transient failure: Temporary issue, will retry.
+4.4.7 - Message delayed: Network or server issue, retry later.
+5.0.0 - Permanent failure: General error, message cannot be delivered.
+5.1.0 - Bad destination mailbox address: Invalid recipient address.
+5.1.1 - Bad destination mailbox address: Recipient does not exist.
+5.1.2 - Bad destination system address: Invalid domain or DNS issue.
+5.2.0 - Mailbox disabled: Recipient mailbox is disabled.
+5.2.2 - Mailbox full: Recipient has exceeded storage limits.
+5.3.4 - Message too big: Email exceeds size limits.
+5.4.1 - No answer from host: Routing issue or server not responding.
+5.4.6 - Routing loop detected: Message stuck in a loop.
+5.5.0 - Invalid command: SMTP command not recognized.
+5.7.0 - Delivery not authorized: Policy restriction.
+5.7.1 - Delivery not authorized: Sender blocked or relay denied.
+5.7.25 - SPF validation failed: Sender domain not authorized.
+5.7.30 - DMARC validation failed: Policy enforcement.
