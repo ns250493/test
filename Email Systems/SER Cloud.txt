@@ -1,0 +1,38 @@
+REQ1284390 | TASK1477955
+Hello Muhammad Haziq,
+
+Relay Username: SDS36 AWS ICP
+Relay User ID: f43cfec0-f06c-4a65-a2dd-c15680732d55
+Password: 
+
+SMTP Host: smtp-us.ser.proofpoint.com
+
+Port
+25: STARTTLS required (RFC 3207)
+465: SMTPS required
+587: STARTTLS required (RFC 3207)
++++++++++++++++++++++
+
+Please select the request is for: 
+Select type of Request: 
+Specific Application/Server Name: SER Cloud
+Request Description: Please assign to the 'Email Systems' queue.
+Application Name: SDS29 AWS ICP
+· Sending address(es): SDS29-DEV@ncrvoyix.com
+· Max message size: 35MB NCR Voyix standard
+· Email address to which we should share the credentials: tamara.mijacic@ncrvoyix.com
+Shipping Information: 
+
+https://ser.proofpoint.com/
+Relay User Management
+Add Relay User
+Enter Relay User Name : SDS29 AWS ICP
+Contacts: tamara.mijacic@ncrvoyix.com 
+Unsubscribe Management : SDS29 AWS ICP
+Click Next
+Cluster ID: ncrcorp_ser_hosted (US) by default
+Maz Message Size 35 MB
+
+https://ncrvoyix.service-now.com/itcentral?id=sc_cat_item&sys_id=43fdd2f593203a101a0effb83603d64f&table=sc_cat_item&searchTerm=smtp%20relay
+
+
